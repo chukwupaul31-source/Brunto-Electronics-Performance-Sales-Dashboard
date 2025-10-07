@@ -6,7 +6,7 @@ This project is a dynamic Sales Performance Dashboard for Brunto Electronic, Bui
 ## 📌Project Overview
 This project is a multi-faceted Sales and Customer Analytics Dashboard for Brunto Electronics, built using Microsoft Power Bi. The primary objectives was to transform raw sales and customer data into a dynamic and professional dashboard to help stakeholders monitor  key performance indicators (KPIs), analyze regional performance, and make data driven decisions. The project is a composed of two interconnected dashboards that provide a comprehensive overview of sales performance from different andles.
 ## Dashboard 1:Brunto Electronic Sales Performance Dashboard
-<img width="611" height="338" alt="BRUNTO DASHBOARD" src="https://github.com/user-attachments/assets/f653b8d2-2a14-494f-9333-f181496e9af8" />
+[<img width="611" height="338" alt="BRUNTO DASHBOARD" src="https://github.com/user-attachments/assets/f653b8d2-2a14-494f-9333-f181496e9af8" />](https://github.com/chukwupaul31-source/Customer-Churn-Analysis-with-Excel/blob/main/dashboard.jpg.PNG?raw=true)
 
 ## ✨**Key Features**
 -	**KPIS**: The dashboard prominently  displays a set of key performance indicators (KPIS) I calculated, including Total Sales, Maximum Sales, Average Sales, Minimum Sales, and Sales Percentage.
