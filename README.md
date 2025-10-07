@@ -60,6 +60,8 @@ Based on my insights, I would recommend the following actions should be taking:
 
 
 ## Dashboard 2: Brunto Sales Performance by Sales Man and Manager Across Regions
+ <img width="612" height="343" alt="BRUNTO PNG" src="https://github.com/user-attachments/assets/09e892f9-5043-4848-a14a-9d041a44b8b1" />
+
 ## 📌**Project Overview**
 This dash board provides a detailed breakdown of sales performance across different regions, managers, and salespeople.
 
@@ -70,9 +72,6 @@ This dash board provides a detailed breakdown of sales performance across differ
 -	**Interactive Slicers**:  I included interactive slicers for Manager and Order Dates to allow users to filter the data and analyze sales performance for specific managers or time periods.
 -	**Goal Tracking**: A gauge chart is used to track the Unit Sold by West, providing clear visual representation of progress toward a sales goal.
 -	**Sales and Manager Tracking**: I used a table chart that provides a detailed view of Order Dates, Salesman, and Manager, ensuring accountability and a clear link between performance and personnel.
-
-## Dashboard Preview
-<img width="612" height="343" alt="LINK4" src="https://github.com/user-attachments/assets/dcd3c16c-a964-458d-8f64-87a23d337743" />
 
 ## 📈**Key Findings**
 -	The West Region consistently shows the highest sales, which suggests it is a key growth driver for the company.
